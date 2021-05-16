@@ -1,0 +1,13 @@
+package divulgatudo.cadastroanuncio;
+
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+
+@SpringBootApplication
+public class CadastroAnuncioApplication {
+
+	public static void main(String[] args) {
+		SpringApplication.run(CadastroAnuncioApplication.class, args);
+	}
+
+}
